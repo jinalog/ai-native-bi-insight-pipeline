@@ -1,0 +1,7 @@
+event_time,date,user_id,campaign_id,channel,country,event_type,cost,device
+2026-01-01 10:00,2026-01-01,U1,C001,search,KR,impression,0.01,mobile
+2026-01-01 10:01,2026-01-01,U1,C001,search,KR,click,0.05,mobile
+2026-01-01 10:05,2026-01-01,U2,C001,search,KR,impression,0.01,desktop
+2026-01-01 10:06,2026-01-01,U2,C001,search,KR,click,0.05,desktop
+2026-01-02 10:00,2026-01-02,U3,C002,social,KR,impression,0.01,mobile
+2026-01-02 10:02,2026-01-02,U3,C002,social,KR,click,0.05,mobile

@@ -1,0 +1,4 @@
+payment_time,date,user_id,order_id,campaign_id,amount,success_yn,fail_reason
+2026-01-01 10:10,2026-01-01,U1,O1001,C001,30000,Y,
+2026-01-01 10:12,2026-01-01,U2,O1002,C001,30000,Y,
+2026-01-02 10:10,2026-01-02,U3,O2001,C002,30000,Y,
